@@ -1,3 +1,10 @@
+!!! Note: This repository is no longer manitained and has been moved to the [Inngest organization](https://github.com/inngest/envelop-plugin-inngest).
+
+Please see: [https://github.com/inngest/envelop-plugin-inngest](https://github.com/inngest/envelop-plugin-inngest) for the current plugin and how to install.
+
+
+---
+
 # envelop-plugin-inngest
 
 An envelop plugin that sends GraphQL response data to Inngest to help build event-driven applications.
